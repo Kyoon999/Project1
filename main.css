@@ -4060,7 +4060,7 @@ input, select, textarea {
 			}
 
 		#footer select {
-			background-image: <img src="Background1.jpg">
+			background-image: url(./Background1.jpg);
 		}
 
 			#footer select option {
