@@ -3231,19 +3231,19 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: 0;
-			width: 100%;
-			height: 100%;
+			width: 50%;
+			height: 50%;
 			background-color: #212931;
 			background:url('Background1.jpg') no-repeat center center fixed;
-			background-size: 100%
+			background-size: 50%
 			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
 		}
 
 			#wrapper > .bg.fixed {
 				position: fixed;
-				width: 30vw;
-				height: 30vh;
+				width: 50vw;
+				height: 50vh;
 			}
 
 		#wrapper.fade-in:before {
