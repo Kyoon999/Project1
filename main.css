@@ -3242,8 +3242,8 @@ input, select, textarea {
 
 			#wrapper > .bg.fixed {
 				position: fixed;
-				width: 50vw;
-				height: 50vh;
+				width: 30vw;
+				height: 100vh;
 			}
 
 		#wrapper.fade-in:before {
