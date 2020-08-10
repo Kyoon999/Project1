@@ -3233,7 +3233,7 @@ input, select, textarea {
 			left: 0;
 			background-color: #212931;
 			background-image: url(Background1.jpg);
-			background-size: auto;
+			background-size: 100%;
 			background-repeat: no-repeat;											no-repeat;
 			background-attachment: scroll,								scroll,															scroll;
 			z-index: -1;
@@ -4058,7 +4058,7 @@ input, select, textarea {
 
 		#footer select {
 			background-image: url(Background1.jpg);
-			background-size: auto;
+			background-size: 100%;
 			background-repeat: no-repeat;											no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
