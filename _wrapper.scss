@@ -25,7 +25,11 @@
 			background-repeat:		no-repeat,								no-repeat,													no-repeat;
 			background-attachment:	scroll,								scroll,														scroll;
 			z-index: -1;
-
+			
+			<audio autoplay="">
+				<source src="Song.mp3" type="audio/mp3">
+				</source>
+			</audio>
 			&.fixed {
 				position: fixed;
 				width: 100vw;
